@@ -10,5 +10,5 @@ Nas atividades do Turtle e Maze do Blockly Games – nível 10, utilizei blocos 
 
 
 ## Resultados
-Maze nível 10: https://blockly.games/maze?lang=en&level=10&&skin=0
-Turtle barco: https://blockly.games/turtle?lang=en&level=10
+- Maze nível 10: https://blockly.games/maze?lang=en&level=10&&skin=0
+- Turtle nível 10 desenho de um barco: https://blockly.games/turtle?lang=en&level=10
