@@ -9,4 +9,4 @@
 Neste projeto em Python, desenvolvi um jogo “Adivinha o número” aplicando variáveis para guardar os dados e input() com int() para ler as respostas do utilizador. Com random (random.randint), criei números aleatórios para os palpites. O controlo do jogo foi feito com estruturas condicionais (if) para avaliar os palpites e um ciclo while para repetir as jogadas até haver um vencedor. Para o computador adivinhar, utilizei uma lista (intervalo) para ajustar os limites dos palpites.
 
 ## Resultados
-- Ver em pasta TPC2 ficheiro "TPC2.ipynb"
+- https://github.com/alicerouget/ATP2026/blob/main/TPC2/TPC%202.ipynb (Ver em pasta TPC2 ficheiro "TPC2.ipynb)
