@@ -10,4 +10,4 @@
 
 
 ## Resultados
-- https://github.com/alicerouget/ATP2026/blob/main/TPC2/TPC%202.ipynb (Ver em pasta TPC3 ficheiro "TPC 3.ipynb)
+-  (Ver em pasta TPC3 ficheiro "TPC 3.ipynb)
